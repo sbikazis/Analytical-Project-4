@@ -1,0 +1,16 @@
+PatientID,Age,Gender,BMI,BloodPressure,ChronicDisease,Smoker,VisitDate,Symptoms
+1,34,Male,27.5,120,No,No,2024-01-03,Headache
+2,58,Female,32.1,145,Yes,Yes,2024-01-04,Fatigue
+3,45,Male,29.8,138,Yes,No,2024-01-05,Chest Pain
+4,23,Female,22.3,110,No,No,2024-01-06,Fever
+5,67,Male,31.7,160,Yes,Yes,2024-01-07,Dizziness
+6,51,Female,28.4,142,Yes,No,2024-01-08,Breathing Issues
+7,39,Male,33.5,155,Yes,Yes,2024-01-09,Chest Pain
+8,29,Female,24.1,118,No,No,2024-01-10,Fever
+9,72,Male,26.9,165,Yes,Yes,2024-01-11,Breathing Issues
+10,41,Female,30.2,135,Yes,No,2024-01-12,Fatigue
+11,55,Male,34.7,158,Yes,Yes,2024-01-13,Chest Pain
+12,36,Female,21.9,112,No,No,2024-01-14,Headache
+13,63,Male,28.8,149,Yes,Yes,2024-01-15,Breathing Issues
+14,47,Female,25.7,130,No,No,2024-01-16,Dizziness
+15,52,Male,31.9,152,Yes,Yes,2024-01-17,Chest Pain
